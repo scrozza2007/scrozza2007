@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a python project<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning python, java, HTML, CSS<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a python project<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning python, java, HTML, CSS
 
 
 ## 🌐 Socials:
